@@ -190,7 +190,7 @@ public class ExecutionEventLogger
         }
         else
         {
-            logger.info( "BUILD SUCCESS" );
+            logger.info( "GREAT SUCCESS! :D" );
         }
     }
 
